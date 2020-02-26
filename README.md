@@ -9,3 +9,10 @@ Clone the project and run the following commands in the root folder.
 `npm run start`
 
 open https://localhost:8080 in a browser.
+
+# Controls
+Press left and right arrows to move the player tank.
+
+Press space to shoot.
+
+Click the 'mainmenu' text to restart the game.
