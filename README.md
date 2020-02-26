@@ -1,5 +1,8 @@
 # World-War-Tanks
-To run this project, clone the project and run the following commands in the root folder.
+A simple game where the player has to take control of a tank and defend his line against enemy tanks.
+
+# Running the Project
+Clone the project and run the following commands in the root folder.
 
 `npm install`
 
