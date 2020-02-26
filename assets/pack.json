@@ -1,0 +1,54 @@
+{
+    "preload": {
+        "files": [
+            {
+                "type" : "bitmapFont",
+                "key": "font",
+                "textureURL": "assets/font/font.png",
+                "fontDataURL": "assets/font/font.fnt"
+            },
+
+            {
+                "type": "image",
+                "key": "bullet",
+                "url": "assets/sprites/bullet.png"
+            },
+
+            {
+                "type": "image",
+                "key": "bulletPlayer",
+                "url": "assets/sprites/bulletPlayer.png"
+            },
+
+            {
+                "type": "image",
+                "key": "player",
+                "url": "assets/sprites/player.png"
+            },
+
+            {
+                "type": "image",
+                "key": "tank1",
+                "url": "assets/sprites/tanks1.png"
+            },
+
+            {
+                "type": "image",
+                "key": "tank2",
+                "url": "assets/sprites/tanks2.png"
+            },
+
+            {
+                "type": "image",
+                "key": "tank3",
+                "url": "assets/sprites/tanks3.png"
+            },
+
+            {
+                "type": "image",
+                "key": "crate",
+                "url": "assets/sprites/crate.png"
+            }
+        ]
+    }
+}
