@@ -8,15 +8,15 @@
     "dev": "webpack-dev-server"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^5.1.1",
-    "ts-loader": "^6.2.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.8.2",
-    "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "phaser": "^3.22.0"
+    "phaser": "^3.55.2"
   },
   "scripts": {
     "start": "webpack --mode development && webpack-dev-server --mode development"
